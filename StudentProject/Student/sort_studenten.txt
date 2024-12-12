@@ -1,0 +1,6 @@
+George 153394 9.8
+David 153393 7
+Popescu 147536 6.6
+Vlad 153391 6.6
+Ionescu 149577 6
+Mihnea 153392 6
