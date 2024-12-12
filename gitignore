@@ -98,7 +98,7 @@ StyleCopReport.xml
 *.svclog
 *.scc
 *.tlog
-*.ilk
+StudentProject\Victor\x64\Debug*.ilk
 *.user
 *.filters
 
